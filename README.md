@@ -9,4 +9,5 @@ Przydatne materiały:
 - Ogłoszenia nowości ze świata AWS - https://aws.amazon.com/about-aws/whats-new/2017/ 
 - Ciekawe spojrzenie na AWS w ujęciu – „co chciałbym wiedzieć zanim zacząłem pracować z AWS” https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/ 
 - Projekt Alexa na RaspberrymPi - https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi 
-- AWS SDK 2.0 Developer Preview - https://aws.amazon.com/blogs/developer/aws-sdk-for-java-2-0developer-preview/
+- AWS SDK 2.0 Developer Preview - https://aws.amazon.com/blogs/developer/aws-sdk-for-java-2-0-developer-preview/
+                                  
